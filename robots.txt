@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ufequuwoh.patriciazhou.com/sitemap.xml
